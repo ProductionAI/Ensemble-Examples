@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-04-13T17:41:35.630620",
+  "model": "claude-haiku-4-5-20251001",
+  "sections": {
+    "canary_prompts": {
+      "factual_capital": {
+        "keyword_hit_rate": 1.0,
+        "avg_semantic_distance": 0.0,
+        "drift_alert": 
